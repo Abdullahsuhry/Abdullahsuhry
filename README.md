@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abdullah Zuhry** 👋 — a **Data Scientist at SpectrifyAI Pvt Ltd** and a **BSc (Hons) Information Technology – Data Science** student at **SLIIT** (Sri Lanka Institute of Information Technology), based in Sri Lanka 🇱🇰.
+Hi, I'm **Abdullah Zuhry** 👋 -a **Data Scientist at SpectrifyAI Pvt Ltd** and a **BSc (Hons) Information Technology – Data Science** student at **SLIIT** (Sri Lanka Institute of Information Technology), based in Sri Lanka 🇱🇰.
 
-I build intelligent systems that solve real-world problems, with a strong focus on **computer vision for agriculture** — especially **tea leaf quality analysis** used in real tea estate and factory operations. I work comfortably across **Tamil and English**.
+I build intelligent systems that solve real-world problems, with a strong focus on **computer vision for agriculture** -especially **tea leaf quality analysis** used in real tea estate and factory operations. I work comfortably across **Tamil and English**.
 
-- 🏢 **Currently:** Data Scientist at **SpectrifyAI Pvt Ltd** — building AI-driven tea leaf quality detection
+- 🏢 **Currently:** Data Scientist at **SpectrifyAI Pvt Ltd** -building AI-driven tea leaf quality detection
 - 🎓 **Studying:** BSc (Hons) IT – Data Science @ SLIIT
 - 🔭 **Exploring:** RGB ↔ NIR spectroscopy correlation, LiDAR-based yield estimation, depth estimation
 - 🌱 **Learning:** Advanced deep learning, model deployment, full-stack AI systems
@@ -38,15 +38,15 @@ I build intelligent systems that solve real-world problems, with a strong focus 
 <tr>
 <td>
 
-### 🌿 SpectrifyAI Pvt Ltd — Data Scientist
+### 🌿 SpectrifyAI Pvt Ltd -Data Scientist
 
 AI-powered **tea leaf quality detection** built around real estate and factory workflows.
 
 - 🔬 **End-to-end CV pipeline** in Python: **YOLOv8 segmentation** → feature extraction (texture, roughness, vein density, shape descriptors) → **Random Forest / XGBoost** classifiers
 - 🍃 **Coarse vs. tender leaf classification** aligned with industry grading (**TLB – Two Leaves & a Bud**) and quality tiers: *Best / Below-Best / Poor*
 - 🏷️ Leaf categories handled: `2TLB` · `3TLB` · `Banji` · `Budmiss` · `Damage` · `Other`
-- 📈 **Estate-level analytics** on CSV datasets (e.g. Dickoya, Galaboda) — Premium Share metrics and division-level performance
-- 📄 **Automated reporting** — professional **DOCX and PPTX** reports generated directly from scan data
+- 📈 **Estate-level analytics** on CSV datasets (e.g. Dickoya, Galaboda) -Premium Share metrics and division-level performance
+- 📄 **Automated reporting** -professional **DOCX and PPTX** reports generated directly from scan data
 - 🧪 **R&D:** whole-leaf **RGB vs. NIR spectroscopy** correlation study (82-leaf dataset, 229 wavelength bands, Savitzky-Golay smoothing + SNV preprocessing)
 
 </td>
@@ -72,7 +72,7 @@ AI-powered **tea leaf quality detection** built around real estate and factory w
 | Project | Description | Tech |
 |---|---|---|
 | 🏢 **BIG LOOK Platform** | AI-powered manufacturing, inventory, B2B ordering and distribution system (raw materials → factory → dealers) with role-based access and an AI business assistant | `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `Docker` |
-| 🧭 **Wandaraya** | AI-powered collaborative travel platform for Sri Lanka — multi-agent design with safety-aware routing (road, flood, landslide & weather risk) and itemised budgeting | `Python` `AI Agents` |
+| 🧭 **Wandaraya** | AI-powered collaborative travel platform for Sri Lanka -multi-agent design with safety-aware routing (road, flood, landslide & weather risk) and itemised budgeting | `Python` `AI Agents` |
 | 🚆 **Sri Lanka Railways Dataset** | Comprehensive dataset of schedules, fares, stops and operational status, built despite inaccessible sources and conflicting timetables | `Python` `Data Engineering` |
 
 ### 🤖 Machine Learning & NLP
@@ -90,7 +90,7 @@ AI-powered **tea leaf quality detection** built around real estate and factory w
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎵 [**Beat Box Music Store**](https://github.com/Abdullahsuhry/BeatBoxMusicStore) | 2nd-year OOP group project — online music store with user, song, artist, order & payment management | `Java` `OOP` |
+| 🎵 [**Beat Box Music Store**](https://github.com/Abdullahsuhry/BeatBoxMusicStore) | 2nd-year OOP group project -online music store with user, song, artist, order & payment management | `Java` `OOP` |
 | 💰 [**FinGuard**](https://github.com/Abdullahsuhry/FinGuard) / [**GrandMoney**](https://github.com/Abdullahsuhry/GrandMoney1) | Finance-focused mobile apps | `Kotlin` `Android` |
 | 🔧 [**Vehicle Service & Spare Parts System**](https://github.com/Abdullahsuhry/MY_Y2S2_ITP_Project) | Y2S2 ITP group project for vehicle service and spare parts management | `JavaScript` |
 
@@ -178,7 +178,7 @@ I'm always happy to talk about **computer vision, agricultural AI, and data scie
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-zuhry/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullazuhry.lovable.app/)
 
-### 💡 *"In God we trust, all others must bring data."* — W. Edwards Deming
+### 💡 *"In God we trust, all others must bring data."* -W. Edwards Deming
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B5E20,100:4CAF50&height=120&section=footer" alt="footer" />
 
