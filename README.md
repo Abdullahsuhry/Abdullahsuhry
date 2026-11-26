@@ -19,12 +19,12 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abdullah Zuhry** 👋 -a **Data Scientist at SpectrifyAI Pvt Ltd** and a **BSc (Hons) Information Technology – Data Science** student at **SLIIT** (Sri Lanka Institute of Information Technology), based in Sri Lanka 🇱🇰.
+Hi, I'm **Abdullah Zuhry** 👋 -a **Data Scientist at SpectrifyAI Pvt Ltd** and a **BSc (Hons) Information Technology - Data Science** student at **SLIIT** (Sri Lanka Institute of Information Technology), based in Sri Lanka 🇱🇰.
 
 I build intelligent systems that solve real-world problems, with a strong focus on **computer vision for agriculture** -especially **tea leaf quality analysis** used in real tea estate and factory operations. I work comfortably across **Tamil and English**.
 
 - 🏢 **Currently:** Data Scientist at **SpectrifyAI Pvt Ltd** -building AI-driven tea leaf quality detection
-- 🎓 **Studying:** BSc (Hons) IT – Data Science @ SLIIT
+- 🎓 **Studying:** BSc (Hons) IT - Data Science @ SLIIT
 - 🔭 **Exploring:** RGB ↔ NIR spectroscopy correlation, LiDAR-based yield estimation, depth estimation
 - 🌱 **Learning:** Advanced deep learning, model deployment, full-stack AI systems
 - 🤝 **Open to:** Collaboration on AI/ML and open-source projects
@@ -43,7 +43,7 @@ I build intelligent systems that solve real-world problems, with a strong focus 
 AI-powered **tea leaf quality detection** built around real estate and factory workflows.
 
 - 🔬 **End-to-end CV pipeline** in Python: **YOLOv8 segmentation** → feature extraction (texture, roughness, vein density, shape descriptors) → **Random Forest / XGBoost** classifiers
-- 🍃 **Coarse vs. tender leaf classification** aligned with industry grading (**TLB – Two Leaves & a Bud**) and quality tiers: *Best / Below-Best / Poor*
+- 🍃 **Coarse vs. tender leaf classification** aligned with industry grading (**TLB - Two Leaves & a Bud**) and quality tiers: *Best / Below-Best / Poor*
 - 🏷️ Leaf categories handled: `2TLB` · `3TLB` · `Banji` · `Budmiss` · `Damage` · `Other`
 - 📈 **Estate-level analytics** on CSV datasets (e.g. Dickoya, Galaboda) -Premium Share metrics and division-level performance
 - 📄 **Automated reporting** -professional **DOCX and PPTX** reports generated directly from scan data
@@ -61,7 +61,7 @@ AI-powered **tea leaf quality detection** built around real estate and factory w
 
 | Project | Description | Tech |
 |---|---|---|
-| 🍃 **SpectrifyAI – Tea Leaf Quality Detection** | Segmentation + feature-based classification of coarse vs. tender leaves, with automated DOCX/PPTX reporting | `Python` `YOLOv8` `Random Forest` `XGBoost` `OpenCV` |
+| 🍃 **SpectrifyAI - Tea Leaf Quality Detection** | Segmentation + feature-based classification of coarse vs. tender leaves, with automated DOCX/PPTX reporting | `Python` `YOLOv8` `Random Forest` `XGBoost` `OpenCV` |
 | 🌳 **Tea Plantation AI** | Web app for point-cloud upload and yield visualization | `Python` `LiDAR` `Web App` |
 | 📡 **LiDAR Canopy Height Analysis** | Canopy height model pipeline using the **DSM − DTM = CHM** approach with NEON AOP data | `Python` `LiDAR` `Geospatial` |
 | ⚖️ **LiDAR Leaf Weight Correlation** | Correlating iPhone LiDAR (.glb) leaf-cluster geometry with measured fresh weight | `Python` `3D Geometry` `Statistics` |
