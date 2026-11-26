@@ -19,12 +19,12 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abdullah Zuhry** 👋 -a **Data Scientist at SpectrifyAI Pvt Ltd** and a **BSc (Hons) Information Technology - Data Science** student at **SLIIT** (Sri Lanka Institute of Information Technology), based in Sri Lanka 🇱🇰.
+Hi, I'm **Abdullah Zuhry** 👋 — a **Data Scientist at SpectrifyAI Pvt Ltd** and a **BSc (Hons) Information Technology – Data Science** student at **SLIIT** (Sri Lanka Institute of Information Technology), based in Sri Lanka 🇱🇰.
 
-I build intelligent systems that solve real-world problems, with a strong focus on **computer vision for agriculture** -especially **tea leaf quality analysis** used in real tea estate and factory operations. I work comfortably across **Tamil and English**.
+I build intelligent systems that solve real-world problems, with a strong focus on **computer vision for agriculture** — especially **tea leaf quality analysis** used in real tea estate and factory operations. I work comfortably across **Tamil and English**.
 
-- 🏢 **Currently:** Data Scientist at **SpectrifyAI Pvt Ltd** -building AI-driven tea leaf quality detection
-- 🎓 **Studying:** BSc (Hons) IT - Data Science @ SLIIT
+- 🏢 **Currently:** Data Scientist at **SpectrifyAI Pvt Ltd** — building AI-driven tea leaf quality detection
+- 🎓 **Studying:** BSc (Hons) IT – Data Science @ SLIIT
 - 🔭 **Exploring:** RGB ↔ NIR spectroscopy correlation, LiDAR-based yield estimation, depth estimation
 - 🌱 **Learning:** Advanced deep learning, model deployment, full-stack AI systems
 - 🤝 **Open to:** Collaboration on AI/ML and open-source projects
@@ -38,15 +38,15 @@ I build intelligent systems that solve real-world problems, with a strong focus 
 <tr>
 <td>
 
-### 🌿 SpectrifyAI Pvt Ltd -Data Scientist
+### 🌿 SpectrifyAI Pvt Ltd — Data Scientist
 
 AI-powered **tea leaf quality detection** built around real estate and factory workflows.
 
 - 🔬 **End-to-end CV pipeline** in Python: **YOLOv8 segmentation** → feature extraction (texture, roughness, vein density, shape descriptors) → **Random Forest / XGBoost** classifiers
-- 🍃 **Coarse vs. tender leaf classification** aligned with industry grading (**TLB - Two Leaves & a Bud**) and quality tiers: *Best / Below-Best / Poor*
+- 🍃 **Coarse vs. tender leaf classification** aligned with industry grading (**TLB – Two Leaves & a Bud**) and quality tiers: *Best / Below-Best / Poor*
 - 🏷️ Leaf categories handled: `2TLB` · `3TLB` · `Banji` · `Budmiss` · `Damage` · `Other`
-- 📈 **Estate-level analytics** on CSV datasets (e.g. Dickoya, Galaboda) -Premium Share metrics and division-level performance
-- 📄 **Automated reporting** -professional **DOCX and PPTX** reports generated directly from scan data
+- 📈 **Estate-level analytics** on CSV datasets (e.g. Dickoya, Galaboda) — Premium Share metrics and division-level performance
+- 📄 **Automated reporting** — professional **DOCX and PPTX** reports generated directly from scan data
 - 🧪 **R&D:** whole-leaf **RGB vs. NIR spectroscopy** correlation study (82-leaf dataset, 229 wavelength bands, Savitzky-Golay smoothing + SNV preprocessing)
 
 </td>
@@ -61,7 +61,7 @@ AI-powered **tea leaf quality detection** built around real estate and factory w
 
 | Project | Description | Tech |
 |---|---|---|
-| 🍃 **SpectrifyAI - Tea Leaf Quality Detection** | Segmentation + feature-based classification of coarse vs. tender leaves, with automated DOCX/PPTX reporting | `Python` `YOLOv8` `Random Forest` `XGBoost` `OpenCV` |
+| 🍃 **SpectrifyAI – Tea Leaf Quality Detection** | Segmentation + feature-based classification of coarse vs. tender leaves, with automated DOCX/PPTX reporting | `Python` `YOLOv8` `Random Forest` `XGBoost` `OpenCV` |
 | 🌳 **Tea Plantation AI** | Web app for point-cloud upload and yield visualization | `Python` `LiDAR` `Web App` |
 | 📡 **LiDAR Canopy Height Analysis** | Canopy height model pipeline using the **DSM − DTM = CHM** approach with NEON AOP data | `Python` `LiDAR` `Geospatial` |
 | ⚖️ **LiDAR Leaf Weight Correlation** | Correlating iPhone LiDAR (.glb) leaf-cluster geometry with measured fresh weight | `Python` `3D Geometry` `Statistics` |
@@ -72,27 +72,53 @@ AI-powered **tea leaf quality detection** built around real estate and factory w
 | Project | Description | Tech |
 |---|---|---|
 | 🏢 **BIG LOOK Platform** | AI-powered manufacturing, inventory, B2B ordering and distribution system (raw materials → factory → dealers) with role-based access and an AI business assistant | `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `Docker` |
-| 🧭 **Wandaraya** | AI-powered collaborative travel platform for Sri Lanka -multi-agent design with safety-aware routing (road, flood, landslide & weather risk) and itemised budgeting | `Python` `AI Agents` |
+| 🧭 **Wandaraya** | AI-powered collaborative travel platform for Sri Lanka — multi-agent design with safety-aware routing (road, flood, landslide & weather risk) and itemised budgeting | `Python` `AI Agents` |
 | 🚆 **Sri Lanka Railways Dataset** | Comprehensive dataset of schedules, fares, stops and operational status, built despite inaccessible sources and conflicting timetables | `Python` `Data Engineering` |
 
-### 🤖 Machine Learning & NLP
+### 🤖 Machine Learning, Deep Learning & Predictive Modeling
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏠 [**House Price Prediction**](https://github.com/Abdullahsuhry/House_price_prediction) | Regression pipeline (Random Forest, Gradient Boosting) with a Flask prediction interface | `Python` `Scikit-learn` `Flask` |
-| 💻 [**Laptop Price Prediction**](https://github.com/Abdullahsuhry/LAPTOP_PRICE_PREDICTION_NEW01) | Price prediction from specs with EDA, feature engineering and Joblib model persistence | `Python` `Scikit-learn` `Flask` |
+| 🧵 [**Fabric Defect Quality**](https://github.com/Abdullahsuhry/Fabric_Defect_Quality) | Deep-learning fabric quality control — PASS/FAIL defect classifier served through a Flask API with an upload UI | `Python` `Keras/TensorFlow` `Flask` `HTML` |
+| 🧠 [**Brain MRI Tumor Detection**](https://github.com/Abdullahsuhry/Brain_MRI_Images_for_Brain_Tumor_Detection) | Brain tumor detection from MRI images | `Python` `Jupyter` `Deep Learning` |
 | 🩺 [**Cancer Prediction System**](https://github.com/Abdullahsuhry/Cancer_Prediction_02) | Binary classification for medical diagnosis support with a web interface | `Python` `Scikit-learn` `HTML` |
+| 🌫️ [**Air Quality Prediction**](https://github.com/Abdullahsuhry/AIR_QUALITY_PREDICTION) | Air quality prediction project | `Python` `ML` |
+| 🚗 [**Road Accident Severity Prediction**](https://github.com/Abdullahsuhry/Accident_road) | Web app predicting accident severity with user authentication (JWT), SQLite and road-safety analytics | `Python` `Flask` `Scikit-learn` `JWT` |
+| 🚦 [**FDM Project – RTA**](https://github.com/Abdullahsuhry/FDM_PROJECT_RTA) | Data mining group project on road traffic accident data | `Python` `Data Mining` |
+| 🎓 [**Student Dropout Predictor**](https://github.com/Abdullahsuhry/Dropout_Graduate_Enrolled_Students) | Predicts whether students drop out, graduate or stay enrolled, with a Flask backend and HTML frontend | `Python` `Scikit-learn` `Flask` |
+| 🏠 [**House Price Prediction**](https://github.com/Abdullahsuhry/House_price_prediction) | Regression pipeline (Random Forest, Gradient Boosting) with a Flask prediction interface | `Python` `Scikit-learn` `Flask` |
+| 💻 [**Laptop Price Prediction**](https://github.com/Abdullahsuhry/LAPTOP_PRICE_PREDICTION_NEW01) ([v1](https://github.com/Abdullahsuhry/Laptop_Price_Prediction)) | Price prediction from specs with EDA, feature engineering and Joblib model persistence | `Python` `Scikit-learn` `Flask` |
+| 🚙 [**Car Price Prediction**](https://github.com/Abdullahsuhry/Car_Price_Prediction) | Used-car price prediction model | `Python` `Scikit-learn` `Jupyter` |
+
+### 💬 NLP, RAG & AI Applications
+
+| Project | Description | Tech |
+|---|---|---|
+| 💼 [**AI Job Matching & Skill Gap Analyzer**](https://github.com/Abdullahsuhry/AI_Job_Matching_System) | Analyzes resumes and job descriptions with NLP to compute match scores and identify skill gaps — React frontend + Flask REST API | `Python` `Flask` `spaCy` `React` `Vite` `Tailwind` |
+| 📚 [**RAG – Document-Based AI Chatbot**](https://github.com/Abdullahsuhry/RAG-Retrieval-Augmented-Generation-_Document-Based-AI-Chatbot) | Retrieval-Augmented Generation chatbot that answers questions from your own documents | `Python` `RAG` `LLMs` |
+| 🔎 [**New RAG Application**](https://github.com/Abdullahsuhry/NEW_RAG_APPLICATION) | Second-generation RAG application with a JavaScript frontend | `JavaScript` `RAG` |
 | 📧 [**Spam Detection**](https://github.com/Abdullahsuhry/Spam_Detection) | TF-IDF + Naive Bayes spam classifier with a real-time Flask app | `Python` `NLTK` `Flask` |
 | 📊 [**Sentiment Analysis**](https://github.com/Abdullahsuhry/Sentiment_Analysis_Project) | End-to-end opinion mining with Naive Bayes, SVM and Logistic Regression | `Python` `NLTK` `Matplotlib` |
-| ✈️ [**AI Travel Planner**](https://github.com/Abdullahsuhry/AI_TRAVEL_PLANER) | Personalized destination suggestions and itinerary generation | `Python` `Streamlit/Flask` |
+| ✈️ [**AI Travel Planner**](https://github.com/Abdullahsuhry/AI_TRAVEL_PLANER) | Personalized destination suggestions and itinerary generation | `Python` |
 
-### 🎓 University & Software Projects
+### 📈 Data Analytics & Geospatial
 
 | Project | Description | Tech |
 |---|---|---|
-| 🎵 [**Beat Box Music Store**](https://github.com/Abdullahsuhry/BeatBoxMusicStore) | 2nd-year OOP group project -online music store with user, song, artist, order & payment management | `Java` `OOP` |
+| 🛍️ [**Customer Shopping Data Analysis**](https://github.com/Abdullahsuhry/Customer_Shopping_Data_Analysist_Project-pyhton-sql-powebi-) | Customer shopping behavior analysis using Python, SQL and Power BI | `Python` `SQL` `Power BI` |
+| 🌍 [**Climate Change Data Explorer**](https://github.com/Abdullahsuhry/climate-change-data-explorer) | Exploring climate change data | `Data Analysis` `Visualization` |
+| 🗺️ [**Geospatial Information Operations**](https://github.com/Abdullahsuhry/Geospatial-Information-Operations-) | Geospatial data processing and operations | `Geospatial` |
+
+### 🎓 University & Software Engineering Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎵 [**Beat Box Music Store**](https://github.com/Abdullahsuhry/BeatBoxMusicStore) ([OnlineMusicStore](https://github.com/Abdullahsuhry/OnlineMusicStore)) | 2nd-year OOP group project — online music store with user, song, artist, order & payment management | `Java` `OOP` |
 | 💰 [**FinGuard**](https://github.com/Abdullahsuhry/FinGuard) / [**GrandMoney**](https://github.com/Abdullahsuhry/GrandMoney1) | Finance-focused mobile apps | `Kotlin` `Android` |
+| 🍔 [**Food Order Mobile App**](https://github.com/Abdullahsuhry/Mobile_Application_Food_Order_App) | Mobile application for ordering food | `Kotlin` `Android` |
 | 🔧 [**Vehicle Service & Spare Parts System**](https://github.com/Abdullahsuhry/MY_Y2S2_ITP_Project) | Y2S2 ITP group project for vehicle service and spare parts management | `JavaScript` |
+| ⚛️ [**Spring + React Application**](https://github.com/Abdullahsuhry/SPRING_REACT_APPLICATION) | Full-stack web application with a Spring backend and React frontend | `Spring` `React` `JavaScript` |
+| 🧪 [**PAF Labs**](https://github.com/Abdullahsuhry/PAF_LAB_01) ([Lab 02](https://github.com/Abdullahsuhry/PAF_LAB_02)) | University lab exercises | `HTML` `Web` |
 
 > 🔒 Some projects (SpectrifyAI, BIG LOOK, Wandaraya) are built for organizations or research and are not public repositories.
 
@@ -135,6 +161,9 @@ AI-powered **tea leaf quality detection** built around real estate and factory w
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -178,7 +207,7 @@ I'm always happy to talk about **computer vision, agricultural AI, and data scie
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-zuhry/)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullazuhry.lovable.app/)
 
-### 💡 *"In God we trust, all others must bring data."* -W. Edwards Deming
+### 💡 *"In God we trust, all others must bring data."* — W. Edwards Deming
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1B5E20,100:4CAF50&height=120&section=footer" alt="footer" />
 
